@@ -1,1 +1,3 @@
-style.css
+# ignore style.css for rawhtml branch
+
+*.css
